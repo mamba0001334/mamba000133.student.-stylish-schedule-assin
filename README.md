@@ -24,7 +24,11 @@
             font-size: 20px;
             background-color: #FFFFFF;
         }
-    </style>
+       <style>
+  .coloring {
+    background-color:#BBBBDD;
+  }
+</style>
 
     <table>
         <colgroup>
